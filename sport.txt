@@ -1,384 +1,247 @@
-[{
-    "question": "Which footballer is known as 'CR7'?",
-    "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar Jr.", "Kylian Mbappé"],
+[
+  {
+    "question": "Which country won the FIFA World Cup in 2022?",
+    "options": ["France", "Brazil", "Argentina", "Germany"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many players are on a standard basketball team on the court?",
+    "options": ["4", "5", "6", "7"],
     "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
   {
-    "question": "The FIFA World Cup is held every how many years?",
+    "question": "Which of these sports is NOT part of a triathlon?",
+    "options": ["Swimming", "Cycling", "Running", "Rowing"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who holds the record for the most Grand Slam tennis titles in men's singles?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which team has won the most Super Bowls?",
+    "options": ["Dallas Cowboys", "San Francisco 49ers", "New England Patriots", "Pittsburgh Steelers"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In which sport would you perform a slam dunk?",
+    "options": ["Volleyball", "Basketball", "Tennis", "Football"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many Olympic rings are there?",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which sport uses the terms 'strike' and 'spare'?",
+    "options": ["Baseball", "Bowling", "Golf", "Cricket"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Tour de France is a famous cycling race.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "In which sport would you use a 'shuttlecock'?",
+    "options": ["Table Tennis", "Squash", "Badminton", "Tennis"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many holes are played in a standard round of golf?",
+    "options": ["9", "12", "18", "21"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Soccer (football) teams have 11 players on the field at the start of a match.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which country invented the sport of basketball?",
+    "options": ["United States", "Canada", "England", "France"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In tennis, what is the term for a zero score?",
+    "options": ["Duck", "Zero", "Love", "Nil"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which boxer was known as 'The Greatest'?",
+    "options": ["Mike Tyson", "Muhammad Ali", "Floyd Mayweather", "Manny Pacquiao"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Cricket matches can last for multiple days.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these is NOT a swimming stroke used in Olympic competition?",
+    "options": ["Butterfly", "Backstroke", "Doggy Paddle", "Breaststroke"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which NBA team did Michael Jordan play for the longest?",
+    "options": ["Washington Wizards", "Chicago Bulls", "Los Angeles Lakers", "New York Knicks"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many players are on each team in ice hockey?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Wimbledon is a major tournament in golf.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "Which sport involves the 'Fosbury Flop' technique?",
+    "options": ["Swimming", "Diving", "High Jump", "Long Jump"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who holds the world record for the 100m sprint as of 2024?",
+    "options": ["Tyson Gay", "Yohan Blake", "Usain Bolt", "Justin Gatlin"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What shape is an NFL football?",
+    "options": ["Spherical", "Prolate spheroid", "Cube", "Cylinder"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Boston Celtics play in the NHL.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "In which Olympic sport would you perform a vault?",
+    "options": ["Swimming", "Track and Field", "Gymnastics", "Diving"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the diameter of a basketball hoop in inches?",
+    "options": ["16", "18", "20", "22"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the national sport of Japan?",
+    "options": ["Judo", "Karate", "Sumo Wrestling", "Kendo"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Masters is one of golf's major tournaments.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "In which sport would you find positions called 'Scrum-half' and 'Fly-half'?",
+    "options": ["Soccer", "Rugby", "Cricket", "American Football"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many periods are in an ice hockey game?",
     "options": ["2", "3", "4", "5"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which country has won the most Olympic gold medals?",
+    "options": ["Russia", "China", "United States", "Germany"],
     "correctAnswerIndex": 2,
     "type": "multiple_choice"
   },
   {
-    "question": "Which country has won the most FIFA World Cup titles?",
-    "options": ["Germany", "Italy", "Brazil", "Argentina"],
+    "question": "Formula 1 racing involves motorcycles.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "What sport is associated with Augusta National?",
+    "options": ["Tennis", "Golf", "Horse Racing", "Auto Racing"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many players are on a baseball team on the field?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which sport features the Ryder Cup competition?",
+    "options": ["Tennis", "Golf", "Soccer", "Cricket"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Stanley Cup is awarded in the NBA.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "Which martial art originated in Brazil?",
+    "options": ["Karate", "Taekwondo", "Judo", "Brazilian Jiu-Jitsu"],
     "correctAnswerIndex": 3,
     "type": "multiple_choice"
   },
   {
-    "question": "What is the name of the top tier of English football?",
-    "options": ["La Liga", "Serie A", "Bundesliga", "Premier League"],
-    "correctAnswerIndex": 3,
+    "question": "How many players are on a volleyball team on the court?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
   {
-    "question": "Lionel Messi has never won a FIFA world cup.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which club is known as 'The Red Devils'?",
-    "options": ["Liverpool", "Manchester City", "Manchester United", "Chelsea"],
+    "question": "In which sport would you perform a 'Triple Axel'?",
+    "options": ["Skiing", "Snowboarding", "Figure Skating", "Gymnastics"],
     "correctAnswerIndex": 2,
     "type": "multiple_choice"
   },
   {
-    "question": "What does 'VAR' stand for in football?",
-    "options": ["Video Assistant Referee", "Variable Action Replay", "Visual Accuracy Review", "Virtual Attack Routine"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "A football match consists of two halves of how many minutes?",
-    "options": ["30", "40", "45", "50"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The 'El Clasico' is a match between which two teams?",
-    "options": ["Real Madrid and Barcelona", "Liverpool and Manchester United", "AC Milan and Inter Milan", "Bayern Munich and Borussia Dortmund"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "A 'hat-trick' in football means scoring how many goals in a single match?",
-    "options": ["2", "3", "4", "5"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The Champions League is a competition for national teams.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which footballer is known for the 'Hand of God' goal?",
-    "options": ["Pele", "Diego Maradona", "Zinedine Zidane", "David Beckham"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the maximum number of players allowed on the field for each team in a football match?",
-    "options": ["9", "10", "11", "12"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which country hosted the 2018 FIFA World Cup?",
-    "options": ["Brazil", "Germany", "Russia", "South Africa"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The 'offside' rule applies when a player is in their own half of the field.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which club plays their home games at Anfield?",
-    "options": ["Manchester City", "Liverpool", "Arsenal", "Tottenham Hotspur"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the term for a football match ending with no goals scored?",
-    "options": ["Draw", "Clean Sheet", "Nil-Nil", "Deadlock"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which player holds the record for most goals in FIFA World Cup tournaments?",
-    "options": ["Pele", "Miroslav Klose", "Ronaldo Nazario", "Gerd Müller"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The UEFA European Championship is held every how many years?",
-    "options": ["2", "4", "6", "8"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "A 'penalty kick' is taken from how many yards away from the goal?",
-    "options": ["10", "11", "12", "13"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The 'Golden Boot' award is given to the best goalkeeper.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which club is known as 'The Gunners'?",
-    "options": ["Chelsea", "Arsenal", "West Ham United", "Everton"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the term for a player being sent off the field?",
-    "options": ["Yellow Card", "Red Card", "Blue Card", "Green Card"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which country won the 2022 FIFA world cup?",
-    "options": ["France", "Brazil", "Croatia", "Argentina"],
-    "correctAnswerIndex": 3,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The 'corner kick' is taken from the center of the field.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  }
-  {
-    "question": "Which goalkeeper once scored a goal directly from a goal kick in the Premier League?",
-    "options": ["Peter Schmeichel", "Asmir Begović", "David De Gea", "Tim Howard"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which footballer is known for celebrating goals by sitting down and pretending to shine his boots?",
-    "options": ["Robert Lewandowski", "Harry Kane", "Erling Haaland", "Jude Bellingham"],
-    "correctAnswerIndex": 3,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Football referees were originally given handkerchiefs instead of cards.",
+    "question": "The Kentucky Derby is a famous horse race.",
     "options": ["True", "False"],
     "correctAnswerIndex": 0,
     "type": "true_false"
   },
   {
-    "question": "Which player scored an own goal, missed a penalty, and got sent off all in the same match?",
-    "options": ["Jonathan Woodgate", "Gareth Bale", "Sergio Ramos", "Giorgio Chiellini"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The 'Panenka' penalty technique is named after which player?",
-    "options": ["Antonín Panenka", "Luka Modrić", "Pavel Nedvěd", "Karel Poborský"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which footballing nation's fans are known as the 'Tartan Army'?",
-    "options": ["Wales", "Scotland", "Northern Ireland", "Republic of Ireland"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which Premier League team has a chicken on its crest?",
-    "options": ["Newcastle United", "Wolverhampton Wanderers", "Tottenham Hotspur", "Crystal Palace"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "A football pitch must be painted blue for official night matches.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which footballer has the nickname 'The Egyptian King'?",
-    "options": ["Mohamed Salah", "Trezeguet", "Mohamed Elneny", "Ahmed Hegazi"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which football club's fans sing 'You'll Never Walk Alone' as their anthem?",
-    "options": ["Manchester United", "Liverpool", "Chelsea", "Arsenal"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The first official international football match was played between England and which country?",
-    "options": ["Wales", "Scotland", "France", "Germany"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Football boots were originally made from kangaroo leather.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which famous player said 'Football is a simple game; 22 men chase a ball for 90 minutes and at the end, the Germans win'?",
-    "options": ["Eric Cantona", "Gary Lineker", "Diego Maradona", "Pelé"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In which position did Cristiano Ronaldo play when he first joined Manchester United?",
-    "options": ["Striker", "Central Midfielder", "Winger", "Defender"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which country's national team is known as 'The Three Lions'?",
-    "options": ["Belgium", "England", "Netherlands", "Denmark"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "During a professional match, a dog ran onto the field and scored a goal, which was officially counted.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which footballer has a fear of flying and often travels by car or train to away matches?",
-    "options": ["Dennis Bergkamp", "N'Golo Kanté", "Gareth Bale", "Andres Iniesta"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the diameter of a standard football?",
-    "options": ["22-23 cm", "25-26 cm", "28-29 cm", "30-31 cm"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which football stadium is known as 'The Theatre of Dreams'?",
-    "options": ["Camp Nou", "Santiago Bernabéu", "Old Trafford", "Wembley Stadium"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The football term 'nutmeg' refers to?",
-    "options": ["Scoring with your head", "Passing the ball through an opponent's legs", "Scoring from outside the box", "Missing an open goal"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Footballers are not allowed to wear jewelry during matches.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which player is known for the 'Cruyff Turn'?",
-    "options": ["Franz Beckenbauer", "Johan Cruyff", "Michel Platini", "Eusébio"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What color card is shown when a player receives a second yellow card?",
-    "options": ["Yellow", "Red", "Blue", "Orange"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In basketball, which player holds the record for most points scored in a single NBA game?",
-    "options": ["Michael Jordan", "LeBron James", "Kobe Bryant", "Wilt Chamberlain"],
-    "correctAnswerIndex": 3,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which English football club is nicknamed 'The Toffees'?",
-    "options": ["West Ham", "Everton", "Leicester City", "Newcastle United"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In American football, a 'Hail Mary' is a desperate long pass thrown with little chance of success.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which footballer had a clause in his contract forbidding him from going bungee jumping?",
-    "options": ["David Beckham", "Neymar Jr.", "Zlatan Ibrahimović", "Ronaldinho"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What year was the first FIFA World Cup held?",
-    "options": ["1926", "1930", "1934", "1938"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which tennis player has won the most Grand Slam titles?",
-    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Serena Williams"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which famous footballer once claimed he was abducted by aliens?",
-    "options": ["David Beckham", "Ronaldinho", "Diego Maradona", "Pelé"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "A football referee once issued himself a red card during a match.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which sport uses the heaviest ball?",
-    "options": ["Bowling", "Shot Put", "Basketball", "Cricket"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which footballer played for both Barcelona and Real Madrid?",
-    "options": ["Ronaldo Nazário", "Luis Figo", "Zinedine Zidane", "David Villa"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In cricket, how many players are there in a team on the field?",
-    "options": ["9", "10", "11", "12"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which city is home to two Premier League football clubs?",
-    "options": ["Liverpool", "Birmingham", "London", "Manchester"],
-    "correctAnswerIndex": 3,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In golf, an 'albatross' is also known as a 'double eagle'.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which footballer is known for celebrating goals by doing a front-flip?",
-    "options": ["Pierre-Emerick Aubameyang", "Nani", "Robbie Keane", "Obafemi Martins"],
-    "correctAnswerIndex": 3,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which Olympic sport involves competitors sliding headfirst down an icy track?",
-    "options": ["Bobsled", "Luge", "Skeleton", "Curling"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In the 1950 World Cup Final, Brazil lost to which country in what became known as the 'Maracanazo'?",
-    "options": ["Argentina", "Germany", "Italy", "Uruguay"],
+    "question": "Which team has won the most World Series in MLB history?",
+    "options": ["Boston Red Sox", "Los Angeles Dodgers", "Chicago Cubs", "New York Yankees"],
     "correctAnswerIndex": 3,
     "type": "multiple_choice"
   }
