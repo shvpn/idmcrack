@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Which anime features a boy who eats a Devil Fruit and gains rubber powers?",
+    "options": ["Naruto", "One Piece", "Dragon Ball", "Bleach"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'Attack on Titan', what are the giant humanoid creatures called?",
+    "options": ["Demons", "Titans", "Monsters", "Colossi"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which anime features a notebook that can kill anyone whose name is written in it?",
+    "options": ["Death Note", "Tokyo Ghoul", "Future Diary", "Psycho-Pass"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "'My Hero Academia' is set in a world where most people have superpowers called:",
+    "options": ["Abilities", "Quirks", "Powers", "Gifts"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the creator of 'Dragon Ball'?",
+    "options": ["Masashi Kishimoto", "Eiichiro Oda", "Akira Toriyama", "Hiromu Arakawa"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The main character in 'Naruto' belongs to which hidden village?",
+    "options": ["Hidden Sand Village", "Hidden Mist Village", "Hidden Leaf Village", "Hidden Stone Village"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Studio Ghibli was co-founded by which famous director?",
+    "options": ["Makoto Shinkai", "Satoshi Kon", "Hayao Miyazaki", "Mamoru Hosoda"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'Fullmetal Alchemist', what is the Law of Equivalent Exchange?",
+    "options": ["To gain something, something of equal value must be lost", "Magic must be balanced with science", "All power comes with a price", "What goes around comes around"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The term 'isekai' refers to anime where characters are transported to another world.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these is NOT one of the original Pokémon starters?",
+    "options": ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'Demon Slayer', what is the name of Tanjiro's sister?",
+    "options": ["Nezuko", "Shinobu", "Kanao", "Mitsuri"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The anime 'Cowboy Bebop' is set primarily in space.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which anime features giant humanoid robots called 'Evangelions'?",
+    "options": ["Gundam", "Darling in the Franxx", "Neon Genesis Evangelion", "Code Geass"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the name of the main character in 'Sword Art Online'?",
+    "options": ["Kirito", "Asuna", "Klein", "Heathcliff"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'Hunter x Hunter', what is Gon Freecss trying to find?",
+    "options": ["Treasure", "His father", "A legendary creature", "The meaning of life"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The main character of 'JoJo's Bizarre Adventure' is always named JoJo.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which anime features a high school club called the SOS Brigade?",
+    "options": ["K-On!", "The Melancholy of Haruhi Suzumiya", "Clannad", "Lucky Star"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'One Punch Man', what is the hero name of the main character?",
+    "options": ["Genos", "Blast", "Caped Baldy", "King"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which sport is the focus of 'Haikyuu!!'?",
+    "options": ["Basketball", "Soccer", "Volleyball", "Baseball"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The anime film 'Your Name' was directed by Makoto Shinkai.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "In 'Tokyo Ghoul', what is a ghoul's weakness?",
+    "options": ["Sunlight", "Silver", "Normal food", "Water"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which anime features a character named Edward Elric?",
+    "options": ["Fullmetal Alchemist", "Soul Eater", "Black Butler", "Blue Exorcist"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'Dragon Ball Z', what color is Goku's hair when he turns Super Saiyan?",
+    "options": ["Red", "Blue", "Green", "Blonde"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "'Spirited Away' is the only anime film to have won an Academy Award.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which anime is about a group of students trying to assassinate their teacher?",
+    "options": ["Danganronpa", "Assassination Classroom", "Kakegurui", "Baka and Test"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What type of creature is Pikachu in the Pokémon franchise?",
+    "options": ["Fire type", "Water type", "Electric type", "Grass type"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'Sailor Moon', what is the main character's civilian name?",
+    "options": ["Rei Hino", "Ami Mizuno", "Minako Aino", "Usagi Tsukino"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The anime 'Death Note' features supernatural beings called:",
+    "options": ["Angels", "Demons", "Shinigami", "Yokai"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The protagonist of 'Black Clover' has no magical abilities in a world full of magic.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these anime is about cooking competitions?",
+    "options": ["Kuroko's Basketball", "Food Wars", "Yuri on Ice", "Free!"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'Bleach', what are the soul-reaping warriors called?",
+    "options": ["Shinigami", "Hollows", "Arrancar", "Quincy"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which anime features a boy who can see yokai with the help of a special item?",
+    "options": ["Natsume's Book of Friends", "Noragami", "Gegege no Kitaro", "Yokai Watch"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The main character of 'Mob Psycho 100' is an esper named Shigeo Kageyama.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which anime features a high school boy who discovers a Death Note?",
+    "options": ["Death Parade", "Death Note", "Another", "Future Diary"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the name of Naruto's nine-tailed fox?",
+    "options": ["Shukaku", "Kurama", "Isobu", "Son Goku"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which anime features an organization called the Survey Corps?",
+    "options": ["Attack on Titan", "My Hero Academia", "Vinland Saga", "Dr. Stone"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In 'Violet Evergarden', what is Violet's profession?",
+    "options": ["Soldier", "Auto Memory Doll", "Nurse", "Teacher"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The anime 'Steins;Gate' involves time travel.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these is NOT a Studio Ghibli film?",
+    "options": ["Spirited Away", "Princess Mononoke", "Your Name", "Howl's Moving Castle"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the name of the main character in 'Attack on Titan'?",
+    "options": ["Levi Ackerman", "Mikasa Ackerman", "Armin Arlert", "Eren Yeager"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  }
+]

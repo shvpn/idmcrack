@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which planet has the Great Red Spot?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "DNA stands for Deoxyribonucleic Acid.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["299,792,458 meters per second", "300,000,000 meters per second", "199,792,458 meters per second", "150,000,000 meters per second"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which scientist formulated the theory of general relativity?",
+    "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Stephen Hawking"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The human body has 206 bones.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Platinum", "Iron", "Diamond", "Titanium"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which of these elements is a noble gas?",
+    "options": ["Nitrogen", "Oxygen", "Argon", "Chlorine"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Liver", "Brain", "Skin", "Heart"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Earth revolves around the Sun in exactly 365 days.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these is not a fundamental force in physics?",
+    "options": ["Gravity", "Electromagnetism", "Strong nuclear force", "Centrifugal force"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Water's chemical formula is H2O.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "What is the smallest unit of life?",
+    "options": ["Atom", "Cell", "Molecule", "Tissue"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Absolute zero is theoretically the lowest possible temperature.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Antibiotics can kill viruses.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "Which geological era are we currently living in?",
+    "options": ["Paleozoic", "Mesozoic", "Cenozoic", "Precambrian"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Photosynthesis", "Respiration", "Digestion", "Fermentation"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Hubble Space Telescope is named after which scientist?",
+    "options": ["Edwin Hubble", "Carl Sagan", "Stephen Hawking", "Neil deGrasse Tyson"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Sound travels faster in water than in air.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which element is liquid at room temperature?",
+    "options": ["Oxygen", "Nitrogen", "Mercury", "Iron"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The human genome contains approximately how many genes?",
+    "options": ["About 1,000", "About 10,000", "About 20,000-25,000", "About 100,000"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the largest known dwarf planet in our solar system?",
+    "options": ["Ceres", "Eris", "Pluto", "Haumea"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The pH scale measures how acidic or basic a substance is.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these animals is cold-blooded?",
+    "options": ["Dolphin", "Elephant", "Lizard", "Penguin"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is Newton's First Law of Motion also known as?",
+    "options": ["Law of Acceleration", "Law of Action and Reaction", "Law of Inertia", "Law of Force"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Cretaceous Period ended approximately 66 million years ago.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "What is the most abundant element in the universe?",
+    "options": ["Oxygen", "Carbon", "Helium", "Hydrogen"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The human brain is composed of approximately how many neurons?",
+    "options": ["1 million", "100 million", "86 billion", "1 trillion"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Atoms are mostly empty space.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these is not a state of matter?",
+    "options": ["Plasma", "Solid", "Gas", "Energy"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What percentage of the Earth's surface is covered in water?",
+    "options": ["About 50%", "About 60%", "About 70%", "About 80%"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Milky Way is a spiral galaxy.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the name of the process by which a solid changes directly to a gas without passing through the liquid state?",
+    "options": ["Condensation", "Sublimation", "Evaporation", "Deposition"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The study of fossils is called paleontology.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which element is essential for all living organisms?",
+    "options": ["Gold", "Silicon", "Carbon", "Aluminum"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The ozone layer primarily protects Earth from which type of radiation?",
+    "options": ["Infrared", "Ultraviolet", "X-ray", "Radio"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  }
+]

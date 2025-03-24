@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Who is known as the 'King of Pop'?",
+    "options": ["Prince", "Michael Jackson", "Elvis Presley", "Justin Timberlake"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which band performed the hit song 'Bohemian Rhapsody'?",
+    "options": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which artist released the album 'Thriller'?",
+    "options": ["Madonna", "Michael Jackson", "Prince", "Whitney Houston"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What instrument does Yo-Yo Ma play?",
+    "options": ["Violin", "Piano", "Cello", "Flute"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who wrote the composition 'Moonlight Sonata'?",
+    "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which Beatles album features the song 'Here Comes the Sun'?",
+    "options": ["Let It Be", "Abbey Road", "Revolver", "Sgt. Pepper's Lonely Hearts Club Band"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which female artist sang 'Rolling in the Deep'?",
+    "options": ["Beyoncé", "Taylor Swift", "Adele", "Lady Gaga"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the lead vocalist of the band U2?",
+    "options": ["Bono", "The Edge", "Larry Mullen Jr.", "Adam Clayton"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The band ABBA originated from Sweden.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these is NOT one of the Spice Girls' nicknames?",
+    "options": ["Scary Spice", "Posh Spice", "Queen Spice", "Sporty Spice"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What musical genre did Elvis Presley help popularize?",
+    "options": ["Jazz", "Rock and Roll", "Disco", "Hip Hop"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The song 'Smells Like Teen Spirit' was performed by Nirvana.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which rapper released the album 'The Marshall Mathers LP'?",
+    "options": ["Jay-Z", "Kanye West", "Eminem", "Dr. Dre"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the lead guitarist of Queen?",
+    "options": ["Freddie Mercury", "Brian May", "Roger Taylor", "John Deacon"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which band's members were John, Paul, George, and Ringo?",
+    "options": ["The Rolling Stones", "The Beatles", "The Who", "Led Zeppelin"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Madonna's first name is actually Madonna.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which song contains the lyrics 'Imagine there's no heaven'?",
+    "options": ["Let It Be", "Imagine", "Hey Jude", "Yesterday"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the name of Beyoncé's fanbase?",
+    "options": ["Beyhive", "Beyoncers", "B-Army", "Beyholics"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which music festival takes place in the California desert?",
+    "options": ["Lollapalooza", "Glastonbury", "Coachella", "Woodstock"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The band Coldplay is from Australia.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "In what decade was the moonwalk dance move popularized by Michael Jackson?",
+    "options": ["1970s", "1980s", "1990s", "2000s"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which artist collaborated with Zedd on the song 'Stay'?",
+    "options": ["Ariana Grande", "Alessia Cara", "Demi Lovato", "Selena Gomez"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many string does a standard guitar have?",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Taylor Swift began her career as a country music artist.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which group released the hit 'I Want It That Way'?",
+    "options": ["NSYNC", "Backstreet Boys", "98 Degrees", "Boyz II Men"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What instrument is B.B. King famous for playing?",
+    "options": ["Saxophone", "Piano", "Drums", "Guitar"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which singer is known as 'The Boss'?",
+    "options": ["Mick Jagger", "Bruce Springsteen", "Bob Dylan", "Bono"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which band performed the song 'Stairway to Heaven'?",
+    "options": ["Pink Floyd", "The Who", "Led Zeppelin", "Deep Purple"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The group 'The Jackson 5' featured seven Jackson siblings.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "Which of these is NOT a classical music composer?",
+    "options": ["Bach", "Mozart", "Beethoven", "Hendrix"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who was the lead vocalist of the band Queen?",
+    "options": ["Roger Taylor", "Brian May", "Freddie Mercury", "John Deacon"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which famous festival was held in Woodstock, New York in 1969?",
+    "options": ["Lollapalooza", "Coachella", "Woodstock Music Festival", "Glastonbury"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Drake is a rapper from Canada.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which musical 'The Lion King' is based on?",
+    "options": ["Cats", "Hamlet", "The Jungle Book", "Aida"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What was the first music video aired on MTV?",
+    "options": ["Thriller", "Video Killed the Radio Star", "Like a Virgin", "Billie Jean"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which song by Luis Fonsi featuring Daddy Yankee became a global hit in 2017?",
+    "options": ["Gasolina", "Despacito", "Bailando", "La Bamba"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Elton John played the piano in all of his performances.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "Which artist released the album 'Purple Rain'?",
+    "options": ["Michael Jackson", "Prince", "David Bowie", "Madonna"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who wrote the song 'Happy Birthday to You'?",
+    "options": ["Patty and Mildred Hill", "Irving Berlin", "Cole Porter", "John Lennon"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What's the name of the Korean music genre that became globally popular?",
+    "options": ["J-Pop", "C-Pop", "K-Pop", "Mandopop"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  }
+]
