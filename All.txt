@@ -1,100 +1,242 @@
-Starting registry update...
-Applying configuration settings...
-Checking system compatibility...
-Initializing registry modifications...
-Loading key values...
-Writing to registry path...
-Updating system parameters...
-Verifying administrator privileges...
-Setting security permissions...
-Modifying access rights...
-Writing new configurations...
-Applying encryption settings...
-Registering system components...
-Updating software policies...
-Enabling required services...
-Configuring network preferences...
-Adjusting firewall rules...
-Optimizing system registry...
-Applying resource management settings...
-Finalizing security policies...
-Updating license information...
-Activating registry entries...
-Checking system registry integrity...
-Performing integrity verification...
-Updating background services...
-Loading dynamic configurations...
-Registering COM components...
-Verifying key dependencies...
-Applying local policy settings...
-Synchronizing registry keys...
-Enabling performance optimizations...
-Overriding default values...
-Modifying cryptographic settings...
-Updating kernel parameters...
-Validating new key entries...
-Reserving system resources...
-Applying digital signatures...
-Executing registry scripts...
-Updating user preferences...
-Applying registry security patches...
-Defragmenting registry files...
-Rebuilding registry index...
-Cleaning obsolete registry keys...
-Setting up custom configurations...
-Updating protocol settings...
-Configuring software installations...
-Finalizing optimization routines...
-Writing encrypted keys...
-Registering dynamic libraries...
-Loading startup configurations...
-Applying power management settings...
-Checking for conflicting entries...
-Modifying system restore settings...
-Applying driver configurations...
-Adjusting system cache values...
-Validating file associations...
-Refreshing shell extensions...
-Rebooting system components...
-Finalizing update procedures...
-Completing registry modifications...
-Enforcing security policies...
-Updating execution policies...
-Modifying system paths...
-Processing configuration templates...
-Applying network policy settings...
-Writing policy enforcement rules...
-Applying registry key protections...
-Configuring remote access settings...
-Verifying consistency of changes...
-Implementing security certificates...
-Updating group policy objects...
-Applying integrity constraints...
-Setting access permissions...
-Configuring user roles...
-Updating process execution rules...
-Modifying system environment variables...
-Updating permissions for registry keys...
-Applying diagnostic settings...
-Executing security compliance rules...
-Configuring encryption keys...
-Updating licensing keys...
-Applying data protection settings...
-Enabling logging mechanisms...
-Deploying configuration policies...
-Setting administrator-level access...
-Verifying integrity of registry files...
-Enforcing audit policies...
-Adjusting advanced system settings...
-Deploying registry patches...
-Checking registry for consistency...
-Saving modifications...
-Reloading system configurations...
-Applying maintenance tasks...
-Updating user access levels...
-Restarting necessary services...
-Registering kernel modules...
-Flushing registry cache...
-Completing background updates...
-Finalizing registry tasks...
-Operation completed successfully.
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["1905", "1912", "1920", "1931"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the scientific name for the fear of long words?",
+    "options": ["Arachnophobia", "Hippopotomonstrosesquippedaliophobia", "Claustrophobia", "Acrophobia"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What color do you get when you mix blue and yellow?",
+    "options": ["Purple", "Orange", "Green", "Brown"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What did the duck say after it bought lipstick?",
+    "options": ["Put it on my bill!", "This is quacktastic!", "Just wing it", "What the duck?"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Why don't scientists trust atoms?",
+    "options": ["They're too small", "They make up everything", "They're unstable", "They're invisible"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What do you call a fake noodle?",
+    "options": ["Impasta", "Fauxccini", "Pseudodle", "Noodlen't"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What's orange and sounds like a parrot?",
+    "options": ["A carrot", "An orange", "A mango", "A goldfish"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which famous physicist developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The Earth is flat.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "type": "true_false"
+  },
+  {
+    "question": "A group of flamingos is called a 'flamboyance'.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+  },
+  {
+    "question": "What is the name of Harry Potter's owl?",
+    "options": ["Crookshanks", "Hedwig", "Errol", "Pigwidgeon"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What's the name of the world's longest river?",
+    "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which animal can't jump?",
+    "options": ["Elephant", "Hippo", "Sloth", "Rhino"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What was the first feature-length animated movie ever released?",
+    "options": ["Bambi", "Snow White and the Seven Dwarfs", "Pinocchio", "Fantasia"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which sport uses the term 'love' to mean zero?",
+    "options": ["Badminton", "Golf", "Tennis", "Cricket"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "If you solve this riddle, you'll get it wrong. If you solve it incorrectly, you'll get it right. What's the answer?",
+    "options": ["Wrong", "Right", "Both", "Neither"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many holes are there in a standard bowling ball?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which continent is the driest on Earth?",
+    "options": ["Africa", "Australia", "Asia", "Antarctica"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What's the hardest natural substance on Earth?",
+    "options": ["Steel", "Diamond", "Titanium", "Quartz"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What did one wall say to the other wall?",
+    "options": ["I'll meet you at the corner", "You're looking solid today", "Stop being so pushy", "Let's hang some art"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which famous band performed at Woodstock in 1969 wearing all white?",
+    "options": ["The Who", "Jefferson Airplane", "The Grateful Dead", "Santana"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In what year was the first iPhone released?",
+    "options": ["2005", "2006", "2007", "2008"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which of these is NOT a real element on the periodic table?",
+    "options": ["Vibranium", "Nobelium", "Einsteinium", "Californium"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What was Marilyn Monroe's natural hair color?",
+    "options": ["Brunette", "Black", "Red", "Blonde"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the only food that never spoils?",
+    "options": ["Twinkies", "Dark chocolate", "Honey", "Peanut butter"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The name of which famous soft drink originally meant 'boiled sheep fat'?",
+    "options": ["Pepsi", "Fanta", "Sprite", "None of these"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the answer to life, the universe, and everything?",
+    "options": ["Love", "42", "Chocolate", "There is no answer"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which of these U.S. Presidents appears on the $2 bill?",
+    "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Benjamin Franklin"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the most common surname in the United States?",
+    "options": ["Johnson", "Williams", "Brown", "Smith"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the name of the phobia that involves an abnormal fear of spiders?",
+    "options": ["Acrophobia", "Arachnophobia", "Claustrophobia", "Agoraphobia"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What was the first toy to be advertised on television?",
+    "options": ["Barbie", "Mr. Potato Head", "Slinky", "LEGO"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "If you're born on February 29th, what is your zodiac sign?",
+    "options": ["Aquarius", "Pisces", "Aries", "It depends on the leap year"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "The impossible quiz: Which of these doesn't belong?",
+    "options": ["Feather", "Paper", "Rock", "Elephant"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "How many sides does a circle have?",
+    "options": ["0", "1", "2", "Infinite"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What color is a mirror?",
+    "options": ["Silver", "Clear", "Slightly green", "No color"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which of these inventions was patented first?",
+    "options": ["Telephone", "Light bulb", "Typewriter", "Steam engine"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  }
+]
