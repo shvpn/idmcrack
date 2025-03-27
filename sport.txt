@@ -6,243 +6,291 @@
     "type": "multiple_choice"
   },
   {
-    "question": "How many players are on a standard basketball team on the court?",
-    "options": ["4", "5", "6", "7"],
+    "question": "Who is known as the 'God of Football' from Argentina?",
+    "options": ["Lionel Messi", "Diego Maradona", "Gabriel Batistuta", "Mario Kempes"],
     "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
   {
-    "question": "Which of these sports is NOT part of a triathlon?",
-    "options": ["Swimming", "Cycling", "Running", "Rowing"],
+    "question": "In which World Cup did Maradona score the famous 'Hand of God' goal?",
+    "options": ["1982", "1986", "1990", "1994"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "options": ["Barcelona", "Bayern Munich", "Liverpool", "Real Madrid"],
     "correctAnswerIndex": 3,
     "type": "multiple_choice"
   },
   {
-    "question": "Who holds the record for the most Grand Slam tennis titles in men's singles?",
-    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "question": "Who holds the record for most goals in World Cup history?",
+    "options": ["Ronaldo", "Miroslav Klose", "Lionel Messi", "Pelé"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In which country was football (soccer) first codified as a modern sport?",
+    "options": ["Italy", "Brazil", "England", "France"],
     "correctAnswerIndex": 2,
     "type": "multiple_choice"
   },
   {
-    "question": "Which team has won the most Super Bowls?",
-    "options": ["Dallas Cowboys", "San Francisco 49ers", "New England Patriots", "Pittsburgh Steelers"],
+    "question": "Which player is famously known for biting opponents during matches?",
+    "options": ["Diego Maradona", "Cristiano Ronaldo", "Luis Suárez", "Neymar"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the nickname of the Brazilian national team?",
+    "options": ["The Eagles", "The Samba Boys", "The Canaries", "The Selecao"],
     "correctAnswerIndex": 3,
     "type": "multiple_choice"
   },
   {
-    "question": "In which sport would you perform a slam dunk?",
-    "options": ["Volleyball", "Basketball", "Tennis", "Football"],
+    "question": "In which World Cup final did Zinedine Zidane headbutt Marco Materazzi?",
+    "options": ["1998", "2002", "2006", "2010"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which goalkeeper is known for the 'Sweeper Keeper' style of play?",
+    "options": ["Iker Casillas", "Manuel Neuer", "Peter Schmeichel", "Gianluigi Buffon"],
     "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
   {
-    "question": "How many Olympic rings are there?",
-    "options": ["4", "5", "6", "7"],
+    "question": "Which player won the most Ballon d'Or awards?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
     "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
   {
-    "question": "Which sport uses the terms 'strike' and 'spare'?",
-    "options": ["Baseball", "Bowling", "Golf", "Cricket"],
+    "question": "In which tournament did Leicester City win the Premier League as 5000-1 underdogs?",
+    "options": ["2014-2015", "2015-2016", "2016-2017", "2013-2014"],
     "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
   {
-    "question": "The Tour de France is a famous cycling race.",
-    "options": ["True", "False"],
+    "question": "Which player is nicknamed 'CR7'?",
+    "options": ["Cristiano Ronaldo", "Carlos Ruiz", "Claudio Rodriguez", "Carlos Rivera"],
     "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "In which sport would you use a 'shuttlecock'?",
-    "options": ["Table Tennis", "Squash", "Badminton", "Tennis"],
-    "correctAnswerIndex": 2,
     "type": "multiple_choice"
   },
   {
-    "question": "How many holes are played in a standard round of golf?",
-    "options": ["9", "12", "18", "21"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Soccer (football) teams have 11 players on the field at the start of a match.",
-    "options": ["True", "False"],
+    "question": "At what age did Pelé win his first World Cup?",
+    "options": ["17", "19", "21", "23"],
     "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which country invented the sport of basketball?",
-    "options": ["United States", "Canada", "England", "France"],
-    "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
   {
-    "question": "In tennis, what is the term for a zero score?",
-    "options": ["Duck", "Zero", "Love", "Nil"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which boxer was known as 'The Greatest'?",
-    "options": ["Mike Tyson", "Muhammad Ali", "Floyd Mayweather", "Manny Pacquiao"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Cricket matches can last for multiple days.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which of these is NOT a swimming stroke used in Olympic competition?",
-    "options": ["Butterfly", "Backstroke", "Doggy Paddle", "Breaststroke"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which NBA team did Michael Jordan play for the longest?",
-    "options": ["Washington Wizards", "Chicago Bulls", "Los Angeles Lakers", "New York Knicks"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "How many players are on each team in ice hockey?",
-    "options": ["5", "6", "7", "8"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Wimbledon is a major tournament in golf.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which sport involves the 'Fosbury Flop' technique?",
-    "options": ["Swimming", "Diving", "High Jump", "Long Jump"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Who holds the world record for the 100m sprint as of 2024?",
-    "options": ["Tyson Gay", "Yohan Blake", "Usain Bolt", "Justin Gatlin"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What shape is an NFL football?",
-    "options": ["Spherical", "Prolate spheroid", "Cube", "Cylinder"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The Boston Celtics play in the NHL.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "In which Olympic sport would you perform a vault?",
-    "options": ["Swimming", "Track and Field", "Gymnastics", "Diving"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the diameter of a basketball hoop in inches?",
-    "options": ["16", "18", "20", "22"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the national sport of Japan?",
-    "options": ["Judo", "Karate", "Sumo Wrestling", "Kendo"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The Masters is one of golf's major tournaments.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "In which sport would you find positions called 'Scrum-half' and 'Fly-half'?",
-    "options": ["Soccer", "Rugby", "Cricket", "American Football"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "How many periods are in an ice hockey game?",
-    "options": ["2", "3", "4", "5"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which country has won the most Olympic gold medals?",
-    "options": ["Russia", "China", "United States", "Germany"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Formula 1 racing involves motorcycles.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "What sport is associated with Augusta National?",
-    "options": ["Tennis", "Golf", "Horse Racing", "Auto Racing"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "How many players are on a baseball team on the field?",
-    "options": ["7", "8", "9", "10"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which sport features the Ryder Cup competition?",
-    "options": ["Tennis", "Golf", "Soccer", "Cricket"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The Stanley Cup is awarded in the NBA.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which martial art originated in Brazil?",
-    "options": ["Karate", "Taekwondo", "Judo", "Brazilian Jiu-Jitsu"],
+    "question": "Which country has won the most World Cup titles?",
+    "options": ["Germany", "Italy", "Argentina", "Brazil"],
     "correctAnswerIndex": 3,
     "type": "multiple_choice"
   },
   {
-    "question": "How many players are on a volleyball team on the court?",
-    "options": ["5", "6", "7", "8"],
+    "question": "Who scored the winning goal in the 1966 World Cup final for England?",
+    "options": ["Bobby Charlton", "Geoff Hurst", "Martin Peters", "Bobby Moore"],
     "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
   {
-    "question": "In which sport would you perform a 'Triple Axel'?",
-    "options": ["Skiing", "Snowboarding", "Figure Skating", "Gymnastics"],
+    "question": "Which player is known as 'O Rei' (The King)?",
+    "options": ["Ronaldo", "Neymar", "Pelé", "Ronaldinho"],
     "correctAnswerIndex": 2,
     "type": "multiple_choice"
   },
   {
-    "question": "The Kentucky Derby is a famous horse race.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
+    "question": "In which year was the first FIFA World Cup held?",
+    "options": ["1926", "1930", "1934", "1938"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
   },
   {
-    "question": "Which team has won the most World Series in MLB history?",
-    "options": ["Boston Red Sox", "Los Angeles Dodgers", "Chicago Cubs", "New York Yankees"],
+    "question": "Which club does Erling Haaland play for?",
+    "options": ["Real Madrid", "Barcelona", "Manchester City", "Liverpool"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who won the UEFA Champions League in 2023?",
+    "options": ["Manchester City", "Real Madrid", "Liverpool", "Bayern Munich"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which player has scored the most Premier League goals?",
+    "options": ["Thierry Henry", "Alan Shearer", "Wayne Rooney", "Mohamed Salah"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the capacity of Barcelona's home stadium, Camp Nou?",
+    "options": ["89,000", "99,000", "75,000", "65,000"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which country invented the 'Total Football' strategy?",
+    "options": ["Germany", "Brazil", "Spain", "Netherlands"],
     "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the current captain of the Portuguese national team?",
+    "options": ["Bruno Fernandes", "Cristiano Ronaldo", "Bernardo Silva", "Ruben Dias"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which goalkeeper has the most clean sheets in Premier League history?",
+    "options": ["David de Gea", "Petr Cech", "Peter Schmeichel", "Alisson Becker"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In which year did the 'Invincibles' of Arsenal complete their unbeaten Premier League season?",
+    "options": ["2002-2003", "2003-2004", "2004-2005", "2001-2002"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which player has won the most UEFA Champions League titles?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Sergio Ramos", "Paulo Maldini"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the oldest football club in the world?",
+    "options": ["Manchester United", "Real Madrid", "Sheffield FC", "AC Milan"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who won the Golden Ball (Best Player) in the 2022 World Cup?",
+    "options": ["Kylian Mbappé", "Lionel Messi", "Cristiano Ronaldo", "Neymar"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which player has the most assists in Premier League history?",
+    "options": ["Frank Lampard", "Ryan Giggs", "Cesc Fabregas", "David Silva"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the most expensive football player transfer of all time?",
+    "options": ["Neymar", "Kylian Mbappé", "Philippe Coutinho", "Cristiano Ronaldo"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which country has won the most African Cup of Nations?",
+    "options": ["Egypt", "Cameroon", "Nigeria", "Senegal"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the current manager of Manchester City?",
+    "options": ["Ole Gunnar Solskjær", "Jurgen Klopp", "Pep Guardiola", "Thomas Tuchel"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In which year did Iceland make their first-ever World Cup appearance?",
+    "options": ["2010", "2014", "2016", "2018"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the all-time top scorer for the German national team?",
+    "options": ["Miroslav Klose", "Gerd Müller", "Lukas Podolski", "Thomas Müller"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which player has won the most Golden Boots in La Liga?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sanchez"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "What is the nickname of Liverpool FC?",
+    "options": ["The Red Devils", "The Reds", "The Blues", "The Gunners"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who scored the fastest hat-trick in Premier League history?",
+    "options": ["Robbie Fowler", "Sadio Mané", "Sergio Agüero", "Mohamed Salah"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which player has won the most Coppa Italia titles?",
+    "options": ["Francesco Totti", "Paolo Maldini", "Gianluigi Buffon", "Alessandro Del Piero"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In which year did Real Madrid win their first European Cup/Champions League?",
+    "options": ["1955", "1956", "1958", "1960"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the youngest goalscorer in World Cup history?",
+    "options": ["Pelé", "Cristiano Ronaldo", "Kylian Mbappé", "Pele Rivelino"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which country has never won a World Cup but reached the final?",
+    "options": ["Netherlands", "Belgium", "Croatia", "Portugal"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the only goalkeeper to win the Ballon d'Or?",
+    "options": ["Peter Schmeichel", "Gianluigi Buffon", "Lev Yashin", "Manuel Neuer"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which player has the most yellow cards in Champions League history?",
+    "options": ["Sergio Ramos", "Gerard Piqué", "Dani Alves", "Xavi"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who won the first FIFA Club World Cup?",
+    "options": ["Real Madrid", "Boca Juniors", "AC Milan", "Manchester United"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which player has scored in the most consecutive Premier League matches?",
+    "options": ["Harry Kane", "Sergio Agüero", "Jamie Vardy", "Mohamed Salah"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Who is the most expensive goalkeeper in football history?",
+    "options": ["Alisson Becker", "Ederson", "Kepa Arrizabalaga", "Marc-André ter Stegen"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "In which year was the Premier League founded?",
+    "options": ["1988", "1992", "1990", "1995"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  },
+  {
+    "question": "Which player has the most goals in Serie A history?",
+    "options": ["Cristiano Ronaldo", "Silvio Piola", "Francesco Totti", "Roberto Baggio"],
+    "correctAnswerIndex": 1,
     "type": "multiple_choice"
   }
 ]
