@@ -239,4 +239,10 @@
     "correctAnswerIndex": 2,
     "type": "multiple_choice"
   }
+  {
+    "question": "តើដំរីមានជើងប៉ុន្មាន?",
+    "options": ["២", "៣", "១", "៥"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice"
+  }
 ]
