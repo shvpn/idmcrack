@@ -3,25 +3,29 @@
     "question": "Which anime features a boy who eats a Devil Fruit and gains rubber powers?",
     "options": ["Naruto", "One Piece", "Dragon Ball", "Bleach"],
     "correctAnswerIndex": 1,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
   },
   {
     "question": "In 'Attack on Titan', what are the giant humanoid creatures called?",
     "options": ["Demons", "Titans", "Monsters", "Colossi"],
     "correctAnswerIndex": 1,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
   },
   {
     "question": "Which anime features a notebook that can kill anyone whose name is written in it?",
     "options": ["Death Note", "Tokyo Ghoul", "Future Diary", "Psycho-Pass"],
     "correctAnswerIndex": 0,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/9453.jpg"
   },
   {
-    "question": "'My Hero Academia' is set in a world where most people have superpowers called:",
-    "options": ["Abilities", "Quirks", "Powers", "Gifts"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
+    "question": "Which anime does this character belong to?",
+    "options": ["Jujutsu Kaisen", "Demon Slayer", "My Hero Academia", "Black Clover"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/9/424723.jpg"
   },
   {
     "question": "Who is the creator of 'Dragon Ball'?",
@@ -30,70 +34,81 @@
     "type": "multiple_choice"
   },
   {
-    "question": "The main character in 'Naruto' belongs to which hidden village?",
-    "options": ["Hidden Sand Village", "Hidden Mist Village", "Hidden Leaf Village", "Hidden Stone Village"],
+    "question": "What anime is this iconic location from?",
+    "options": ["Your Name", "Weathering With You", "Spirited Away", "Howl's Moving Castle"],
     "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://i.pinimg.com/originals/9a/5c/5d/9a5c5d404f8ab355f9e4e909d8c80d5a.jpg"
   },
   {
-    "question": "Studio Ghibli was co-founded by which famous director?",
-    "options": ["Makoto Shinkai", "Satoshi Kon", "Hayao Miyazaki", "Mamoru Hosoda"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "question": "Identify this anime character",
+    "options": ["Eren Yeager", "Naruto Uzumaki", "Ichigo Kurosaki", "Edward Elric"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/12/73262.jpg"
   },
   {
     "question": "In 'Fullmetal Alchemist', what is the Law of Equivalent Exchange?",
     "options": ["To gain something, something of equal value must be lost", "Magic must be balanced with science", "All power comes with a price", "What goes around comes around"],
     "correctAnswerIndex": 0,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg"
   },
   {
-    "question": "The term 'isekai' refers to anime where characters are transported to another world.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
+    "question": "Which anime features this school setting?",
+    "options": ["K-On!", "Assassination Classroom", "High School DxD", "Baka and Test"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://static.wikia.nocookie.net/ansatsukyoshitsu/images/0/09/Kunugigaoka_Junior_High_School_anime.png"
   },
   {
     "question": "Which of these is NOT one of the original Pokémon starters?",
     "options": ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"],
     "correctAnswerIndex": 3,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/73834.jpg"
   },
   {
-    "question": "In 'Demon Slayer', what is the name of Tanjiro's sister?",
-    "options": ["Nezuko", "Shinobu", "Kanao", "Mitsuri"],
+    "question": "Identify this anime character",
+    "options": ["Nezuko Kamado", "Zero Two", "Mikasa Ackerman", "Marin Kitagawa"],
     "correctAnswerIndex": 0,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/6/386718.jpg"
   },
   {
-    "question": "The anime 'Cowboy Bebop' is set primarily in space.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
+    "question": "Which anime is this scenery from?",
+    "options": ["5 Centimeters per Second", "Your Name", "Garden of Words", "A Silent Voice"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://wallpapercave.com/wp/wp1863045.jpg"
   },
   {
     "question": "Which anime features giant humanoid robots called 'Evangelions'?",
     "options": ["Gundam", "Darling in the Franxx", "Neon Genesis Evangelion", "Code Geass"],
     "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg"
   },
   {
-    "question": "What is the name of the main character in 'Sword Art Online'?",
-    "options": ["Kirito", "Asuna", "Klein", "Heathcliff"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
+    "question": "Who is this character?",
+    "options": ["Kirito", "Lelouch Lamperouge", "Levi Ackerman", "Light Yagami"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/5/54931.jpg"
   },
   {
     "question": "In 'Hunter x Hunter', what is Gon Freecss trying to find?",
     "options": ["Treasure", "His father", "A legendary creature", "The meaning of life"],
     "correctAnswerIndex": 1,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/33657.jpg"
   },
   {
-    "question": "The main character of 'JoJo's Bizarre Adventure' is always named JoJo.",
-    "options": ["True", "False"],
+    "question": "Identify the anime this castle is from",
+    "options": ["Howl's Moving Castle", "Castle in the Sky", "The Castle of Cagliostro", "Tales from Earthsea"],
     "correctAnswerIndex": 0,
-    "type": "true_false"
+    "type": "multiple_choice",
+    "imageUrl": "https://static.wikia.nocookie.net/howlscastle/images/0/00/Howls_moving_castle_by_mr_stump-d4rjgpz.jpg"
   },
   {
     "question": "Which anime features a high school club called the SOS Brigade?",
@@ -102,88 +117,102 @@
     "type": "multiple_choice"
   },
   {
-    "question": "In 'One Punch Man', what is the hero name of the main character?",
-    "options": ["Genos", "Blast", "Caped Baldy", "King"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "question": "Who is this bald hero?",
+    "options": ["Krillin", "Saitama", "Master Roshi", "Ikkaku Madarame"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/11/294388.jpg"
   },
   {
     "question": "Which sport is the focus of 'Haikyuu!!'?",
     "options": ["Basketball", "Soccer", "Volleyball", "Baseball"],
     "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
   },
   {
     "question": "The anime film 'Your Name' was directed by Makoto Shinkai.",
     "options": ["True", "False"],
     "correctAnswerIndex": 0,
-    "type": "true_false"
+    "type": "true_false",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/87048.jpg"
   },
   {
-    "question": "In 'Tokyo Ghoul', what is a ghoul's weakness?",
-    "options": ["Sunlight", "Silver", "Normal food", "Water"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "question": "Which anime is this famous bathhouse from?",
+    "options": ["My Neighbor Totoro", "Spirited Away", "Princess Mononoke", "Ponyo"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://i.pinimg.com/originals/97/46/8c/97468c82a17cb5cb2e28a574558a0dcf.jpg"
   },
   {
     "question": "Which anime features a character named Edward Elric?",
     "options": ["Fullmetal Alchemist", "Soul Eater", "Black Butler", "Blue Exorcist"],
     "correctAnswerIndex": 0,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75815.jpg"
   },
   {
     "question": "In 'Dragon Ball Z', what color is Goku's hair when he turns Super Saiyan?",
     "options": ["Red", "Blue", "Green", "Blonde"],
     "correctAnswerIndex": 3,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg"
   },
   {
-    "question": "'Spirited Away' is the only anime film to have won an Academy Award.",
-    "options": ["True", "False"],
+    "question": "Identify this setting from which famous movie?",
+    "options": ["The Garden of Words", "Weathering With You", "Your Name", "5 Centimeters Per Second"],
     "correctAnswerIndex": 0,
-    "type": "true_false"
+    "type": "multiple_choice",
+    "imageUrl": "https://i0.wp.com/www.koreanmediareport.com/wp-content/uploads/2018/05/anime-girl-garden-of-words-anime-rain-hd-wallpaper-preview.jpg"
   },
   {
     "question": "Which anime is about a group of students trying to assassinate their teacher?",
     "options": ["Danganronpa", "Assassination Classroom", "Kakegurui", "Baka and Test"],
     "correctAnswerIndex": 1,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/75639.jpg"
   },
   {
-    "question": "What type of creature is Pikachu in the Pokémon franchise?",
-    "options": ["Fire type", "Water type", "Electric type", "Grass type"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "question": "Which anime character is this?",
+    "options": ["Pikachu", "Agumon", "Jigglypuff", "Kirby"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/16/373246.jpg"
   },
   {
     "question": "In 'Sailor Moon', what is the main character's civilian name?",
     "options": ["Rei Hino", "Ami Mizuno", "Minako Aino", "Usagi Tsukino"],
     "correctAnswerIndex": 3,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg"
   },
   {
-    "question": "The anime 'Death Note' features supernatural beings called:",
-    "options": ["Angels", "Demons", "Shinigami", "Yokai"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "question": "Which anime takes place in this post-apocalyptic city?",
+    "options": ["Akira", "Ghost in the Shell", "Ergo Proxy", "Psycho-Pass"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://i.pinimg.com/originals/e1/5e/b3/e15eb37adedb01b6e0e549d0d7908378.jpg"
   },
   {
     "question": "The protagonist of 'Black Clover' has no magical abilities in a world full of magic.",
     "options": ["True", "False"],
     "correctAnswerIndex": 0,
-    "type": "true_false"
+    "type": "true_false",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/88336.jpg"
   },
   {
     "question": "Which of these anime is about cooking competitions?",
     "options": ["Kuroko's Basketball", "Food Wars", "Yuri on Ice", "Free!"],
     "correctAnswerIndex": 1,
-    "type": "multiple_choice"
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/76943.jpg"
   },
   {
-    "question": "In 'Bleach', what are the soul-reaping warriors called?",
-    "options": ["Shinigami", "Hollows", "Arrancar", "Quincy"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
+    "question": "Identify this anime city",
+    "options": ["Academy City from 'A Certain Magical Index'", "Tokyo-3 from 'Neon Genesis Evangelion'", "Z-City from 'One Punch Man'", "Yorknew City from 'Hunter x Hunter'"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://i.pinimg.com/originals/46/45/70/46457067281bee1de4b9c7797ca24da1.jpg"
   },
   {
     "question": "Which anime features a boy who can see yokai with the help of a special item?",
@@ -192,10 +221,11 @@
     "type": "multiple_choice"
   },
   {
-    "question": "The main character of 'Mob Psycho 100' is an esper named Shigeo Kageyama.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
+    "question": "Who is this green-haired character?",
+    "options": ["Zoro from One Piece", "Midoriya from My Hero Academia", "Shun from Kimetsu no Yaiba", "C.C. from Code Geass"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/15/299409.jpg"
   },
   {
     "question": "Which anime features a high school boy who discovers a Death Note?",
@@ -204,10 +234,11 @@
     "type": "multiple_choice"
   },
   {
-    "question": "What is the name of Naruto's nine-tailed fox?",
-    "options": ["Shukaku", "Kurama", "Isobu", "Son Goku"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
+    "question": "What anime features this famous classroom?",
+    "options": ["Classroom of the Elite", "Assassination Classroom", "Kakegurui", "Great Teacher Onizuka"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/85/Advanced_Nurturing_High_School_Anime.png"
   },
   {
     "question": "Which anime features an organization called the Survey Corps?",
@@ -216,27 +247,191 @@
     "type": "multiple_choice"
   },
   {
-    "question": "In 'Violet Evergarden', what is Violet's profession?",
-    "options": ["Soldier", "Auto Memory Doll", "Nurse", "Teacher"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
+    "question": "Who is this character with heterochromia eyes?",
+    "options": ["Todoroki from My Hero Academia", "Rikka from Chuunibyou", "Yuno from Black Clover", "Kaneki from Tokyo Ghoul"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/9/312195.jpg"
   },
   {
     "question": "The anime 'Steins;Gate' involves time travel.",
     "options": ["True", "False"],
     "correctAnswerIndex": 0,
-    "type": "true_false"
+    "type": "true_false",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/73199.jpg"
   },
   {
-    "question": "Which of these is NOT a Studio Ghibli film?",
-    "options": ["Spirited Away", "Princess Mononoke", "Your Name", "Howl's Moving Castle"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
+    "question": "Identify this anime location",
+    "options": ["U.A. High School from My Hero Academia", "Fairy Tail Guild Hall", "Soul Society from Bleach", "Hidden Leaf Village from Naruto"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice",
+    "imageUrl": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/08/Hidden-Leaf-Village-Featured.jpg"
   },
   {
     "question": "What is the name of the main character in 'Attack on Titan'?",
     "options": ["Levi Ackerman", "Mikasa Ackerman", "Armin Arlert", "Eren Yeager"],
     "correctAnswerIndex": 3,
     "type": "multiple_choice"
+  },
+  {
+    "question": "Which character is this?",
+    "options": ["Luffy from One Piece", "Goku from Dragon Ball", "Natsu from Fairy Tail", "Ichigo from Bleach"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/9/107334.jpg"
+  },
+  {
+    "question": "Which character in 'Demon Slayer' wears a boar head mask?",
+    "options": ["Zenitsu", "Inosuke", "Giyu", "Rengoku"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/8/386115.jpg"
+  },
+  {
+    "question": "What power does Shoto Todoroki have in 'My Hero Academia'?",
+    "options": ["Super Strength", "Explosion", "Half-Cold Half-Hot", "Invisibility"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1057/111430.jpg"
+  },
+  {
+    "question": "Identify this anime location",
+    "options": ["Shiganshina District from Attack on Titan", "Water 7 from One Piece", "Magnolia Town from Fairy Tail", "Karakura Town from Bleach"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/8/89/Water_7_Infobox.png"
+  },
+  {
+    "question": "Which anime series is this character from?",
+    "options": ["Jujutsu Kaisen", "Chainsaw Man", "Demon Slayer", "Fire Force"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/15/443476.jpg"
+  },
+  {
+    "question": "Which anime features a bounty hunter traveling space with a genetically-engineered corgi?",
+    "options": ["Space Dandy", "Outlaw Star", "Cowboy Bebop", "Trigun"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.jpg"
+  },
+  {
+    "question": "Identify this famous anime school",
+    "options": ["North High from The Melancholy of Haruhi Suzumiya", "Kuoh Academy from High School DxD", "Honnouji Academy from Kill la Kill", "Tokisadame High from Gintama"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice",
+    "imageUrl": "https://static.wikia.nocookie.net/kill-la-kill/images/9/9b/Honnouji_Academy.jpg"
+  },
+  {
+    "question": "What type of magic does Natsu use in 'Fairy Tail'?",
+    "options": ["Ice Magic", "Fire Dragon Slayer Magic", "Requip Magic", "Water Magic"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/18179.jpg"
+  },
+  {
+    "question": "Which character is this from 'Violet Evergarden'?",
+    "options": ["Violet Evergarden", "Iris Cannary", "Cattleya Baudelaire", "Erica Brown"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/14/342658.jpg"
+  },
+  {
+    "question": "What is the name of the futuristic city in 'Akira'?",
+    "options": ["Tokyo-3", "Neo-Tokyo", "Mega Tokyo", "New Tokyo"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1408/114012.jpg"
+  },
+  {
+    "question": "Identify this anime location",
+    "options": ["Irontown from Princess Mononoke", "Edo from Gintama", "The Village from Dororo", "The City of Tears from To Your Eternity"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://static.wikia.nocookie.net/studio-ghibli/images/f/f3/Tataraba.png"
+  },
+  {
+    "question": "What is the main setting of 'Made in Abyss'?",
+    "options": ["A massive tower", "A giant school", "A deep chasm", "A floating island"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/86733.jpg"
+  },
+  {
+    "question": "Which character is this?",
+    "options": ["Asuna from Sword Art Online", "Yor from Spy x Family", "Mai Sakurajima from Bunny Girl Senpai", "Marin Kitagawa from My Dress-Up Darling"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/11/371004.jpg"
+  },
+  {
+    "question": "Which anime features a story about gold mining in Hokkaido during the Meiji era?",
+    "options": ["Golden Kamuy", "Vinland Saga", "Dororo", "Samurai Champloo"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1180/93253.jpg"
+  },
+  {
+    "question": "What famous anime features this school rooftop?",
+    "options": ["Your Lie in April", "Clannad", "Angel Beats!", "Toradora!"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice",
+    "imageUrl": "https://i.pinimg.com/originals/2a/e6/c6/2ae6c6c066d1232a09e75ded5c77d0b9.jpg"
+  },
+  {
+    "question": "Which anime follows the story of a basketball team trying to become the best in Japan?",
+    "options": ["Slam Dunk", "Kuroko no Basket", "Ahiru no Sora", "Haikyuu!!"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/55059.jpg"
+  },
+  {
+    "question": "Identify this character",
+    "options": ["Hange Zoë from Attack on Titan", "Gojo Satoru from Jujutsu Kaisen", "Roy Mustang from Fullmetal Alchemist", "L from Death Note"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/8/434761.jpg"
+  },
+  {
+    "question": "Which anime features a girl who can manipulate vectors?",
+    "options": ["Psycho-Pass", "A Certain Scientific Railgun", "A Certain Magical Index", "Darker than Black"],
+    "correctAnswerIndex": 2,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/9922.jpg"
+  },
+  {
+    "question": "Identify this famous anime location",
+    "options": ["The Cat Bureau from The Cat Returns", "The Moving Castle from Howl's Moving Castle", "Laputa from Castle in the Sky", "The Bathhouse from Spirited Away"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice",
+    "imageUrl": "https://media.architecturaldigest.com/photos/5ba3af1c02ae1d2531a0a14b/master/w_1600%2Cc_limit/003-web-dsgn-Spirited-Away-Sets.jpg"
+  },
+  {
+    "question": "The anime 'Mushoku Tensei' is considered one of the pioneers of the modern isekai genre.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/120015.jpg"
+  },
+  {
+    "question": "Who is this character?",
+    "options": ["Rem from Re:Zero", "Megumin from KonoSuba", "Asuna from Sword Art Online", "Emilia from Re:Zero"],
+    "correctAnswerIndex": 0,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/14/307195.jpg"
+  },
+  {
+    "question": "In 'Spy x Family', what is Anya's special ability?",
+    "options": ["Super strength", "Telepathy", "Shapeshifting", "Telekinesis"],
+    "correctAnswerIndex": 1,
+    "type": "multiple_choice",
+    "imageUrl": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg"
+  },
+  {
+    "question": "Which famous anime town is this?",
+    "options": ["Pallet Town from Pokémon", "Morioh from JoJo's Bizarre Adventure", "Hinamizawa from Higurashi", "Itomori from Your Name"],
+    "correctAnswerIndex": 3,
+    "type": "multiple_choice",
+    "imageUrl": "https://i0.wp.com/jonspencerreviews.files.wordpress.com/2019/11/kimi-no-na-wa-your-name-itomori.png"
   }
 ]
