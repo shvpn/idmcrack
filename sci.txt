@@ -5,5 +5,12 @@
     "options": ["18", "3", "9", "5"],
     "correctAnswerIndex": 1,
     "type": "multiple_choice"
+  },
+{
+    "question": "The study of fossils is called paleontology.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "type": "true_false"
+    
   }
 ]
