@@ -10,7 +10,7 @@
     "question": "The study of fossils is called paleontology.",
     "options": ["True", "False"],
     "correctAnswerIndex": 0,
-    "type": "true_false"
-    
+    "type": "true_false",
+    "imageUrl": "https://github.com/shvpn/idmcrack/blob/main/neptune.jpg?raw=true"
   }
 ]
