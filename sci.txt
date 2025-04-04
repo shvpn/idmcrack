@@ -13,7 +13,6 @@
     "type": "true_false",
     "imageUrl": "https://github.com/shvpn/idmcrack/blob/main/neptune.jpg?raw=true"
   },
-  [
   {
     "question": "What is the chemical symbol for gold?",
     "options": ["Go", "Gd", "Au", "Ag"],
