@@ -6,13 +6,6 @@
     "correctAnswerIndex": 1,
     "type": "multiple_choice"
   },
-{
-    "question": "Wht is this planet",
-    "options": ["neptune", "earth","mar","sun"],
-    "correctAnswerIndex": 0,
-    "type": "true_false",
-    "imageUrl": "https://github.com/shvpn/idmcrack/blob/main/neptune.jpg?raw=true"
-  },
   {
     "question": "What is the chemical symbol for gold?",
     "options": ["Go", "Gd", "Au", "Ag"],
