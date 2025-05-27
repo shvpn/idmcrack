@@ -370,10 +370,10 @@ if not defined terminal mode 75, 28
 
 echo:
 echo:
-call :_color2 %_White% "             " %_Green% "Create By Piash"
+call :_color2 %_White% "             " %_Green% "Create Vy Kdor"
 echo:            ___________________________________________________ 
 echo:
-echo:               Telegram: @ModByPiash
+echo:               Telegram: @Kdet
 echo:               Github: https://github.com/lstprjct
 echo:            ___________________________________________________ 
 echo:                                                               
