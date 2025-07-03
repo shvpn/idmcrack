@@ -1,242 +1,80 @@
-[
-  {
-    "question": "Which actor played Iron Man in the Marvel Cinematic Universe?",
-    "options": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the name of the fictional African country in 'Black Panther'?",
-    "options": ["Zamunda", "Wakanda", "Genovia", "Latveria"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which film features a character named Jack Dawson who boards a famous ship?",
-    "options": ["Titanic", "The Perfect Storm", "Master and Commander", "Cast Away"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'The Matrix', what color pill does Neo take?",
-    "options": ["Green", "Blue", "Red", "Yellow"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Who directed 'Jurassic Park'?",
-    "options": ["James Cameron", "George Lucas", "Steven Spielberg", "Peter Jackson"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The iconic line 'Here's looking at you, kid' is from which classic film?",
-    "options": ["Gone with the Wind", "The Maltese Falcon", "Casablanca", "Citizen Kane"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which filmmaker created 'Pulp Fiction'?",
-    "options": ["Martin Scorsese", "Francis Ford Coppola", "Quentin Tarantino", "David Lynch"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'The Wizard of Oz', what does Dorothy click together to return home?",
-    "options": ["Her ruby slippers", "A magic wand", "Her fingers", "A pocket watch"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "'The Shawshank Redemption' is based on a novella by Stephen King.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which of these films was NOT directed by Christopher Nolan?",
-    "options": ["Inception", "Interstellar", "The Revenant", "Dunkirk"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'The Lord of the Rings', what is the name of Frodo's home?",
-    "options": ["The Burrow", "Bag End", "Rivendell", "Minas Tirith"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The film 'Inception' is about entering people's dreams.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which movie features a character named Forrest Gump?",
-    "options": ["The Green Mile", "Cast Away", "Forrest Gump", "Saving Private Ryan"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Who played the Joker in 'The Dark Knight'?",
-    "options": ["Joaquin Phoenix", "Heath Ledger", "Jack Nicholson", "Jared Leto"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'The Lion King', what is Simba's father's name?",
-    "options": ["Scar", "Mufasa", "Rafiki", "Timon"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The 'Star Wars' franchise includes exactly six films.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 1,
-    "type": "true_false"
-  },
-  {
-    "question": "Which movie features the line 'I'm the king of the world!'?",
-    "options": ["Titanic", "Avatar", "The Wolf of Wall Street", "The Great Gatsby"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'The Godfather', what is the name of the family?",
-    "options": ["Tattaglia", "Barzini", "Corleone", "Sollozzo"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which sport is featured in the film 'Remember the Titans'?",
-    "options": ["Basketball", "Baseball", "Football", "Hockey"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The film 'Parasite' was the first non-English language film to win Best Picture at the Academy Awards.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "In 'Harry Potter', what house is Harry sorted into?",
-    "options": ["Ravenclaw", "Hufflepuff", "Slytherin", "Gryffindor"],
-    "correctAnswerIndex": 3,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which film features a character named Luke Skywalker?",
-    "options": ["Star Trek", "Blade Runner", "Star Wars", "Alien"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'The Avengers', what is Thor's hammer called?",
-    "options": ["Stormbreaker", "Gungnir", "Mjolnir", "Hofund"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "'The Sixth Sense' is famous for its twist ending.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which movie is about a group of criminals planning a heist during a magic show?",
-    "options": ["Ocean's Eleven", "Now You See Me", "The Italian Job", "Heat"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What color is Darth Vader's lightsaber in 'Star Wars'?",
-    "options": ["Blue", "Green", "Red", "Purple"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'Finding Nemo', what type of fish is Nemo?",
-    "options": ["Angelfish", "Clownfish", "Goldfish", "Pufferfish"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which movie features a giant ape climbing the Empire State Building?",
-    "options": ["Mighty Joe Young", "Kong: Skull Island", "King Kong", "Rampage"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The 'Fast & Furious' franchise primarily focuses on car racing.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which of these films is about cooking?",
-    "options": ["The Departed", "Ratatouille", "Up", "WALL-E"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'Back to the Future', what is the name of the scientist who invents time travel?",
-    "options": ["Dr. Emmett Brown", "Dr. Walter Bishop", "Dr. Henry Jones", "Dr. Peter Venkman"],
-    "correctAnswerIndex": 0,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which animated film features a character named Woody who is a cowboy doll?",
-    "options": ["Shrek", "Toy Story", "Monsters, Inc.", "The Incredibles"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The movie 'The Social Network' is about the founding of Facebook.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which film does NOT feature Batman?",
-    "options": ["The Dark Knight", "Batman Begins", "Justice League", "Spider-Man: Homecoming"],
-    "correctAnswerIndex": 3,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the name of the island in 'Jurassic Park'?",
-    "options": ["Skull Island", "Isla Nublar", "Paradise Island", "Themyscira"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "Which movie features James Bond as the main character?",
-    "options": ["Mission: Impossible", "Skyfall", "The Bourne Identity", "Jack Reacher"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "In 'E.T.', what does E.T. stand for?",
-    "options": ["Extra Time", "Extra Terrestrial", "Eternal Traveler", "Earth Tourist"],
-    "correctAnswerIndex": 1,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "The film 'The Silence of the Lambs' features a serial killer named Hannibal Lecter.",
-    "options": ["True", "False"],
-    "correctAnswerIndex": 0,
-    "type": "true_false"
-  },
-  {
-    "question": "Which of these is NOT a Pixar film?",
-    "options": ["Finding Nemo", "Toy Story", "Shrek", "Up"],
-    "correctAnswerIndex": 2,
-    "type": "multiple_choice"
-  },
-  {
-    "question": "What is the name of the main character in 'The Matrix'?",
-    "options": ["Morpheus", "Trinity", "Agent Smith", "Neo"],
-    "correctAnswerIndex": 3,
-    "type": "multiple_choice"
-  }
-]
+#!/bin/bash
+
+# Django Course Platform Setup Script
+# This script sets up a Django application with nginx and MySQL support
+
+set -e  # Exit on any error
+
+echo "Starting Django Course Platform setup..."
+
+# Update system packages
+echo "Updating system packages..."
+sudo apt update -y
+
+# Install system dependencies
+echo "Installing system dependencies..."
+sudo apt install -y \
+    nginx \
+    pkg-config \
+    libmysqlclient-dev \
+    default-libmysqlclient-dev \
+    build-essential \
+    python3.12-venv \
+    python3-pip \
+    git
+
+# Clone the course platform repository
+echo "Cloning course platform repository..."
+if [ ! -d "course_platform" ]; then
+    git clone https://github.com/shvpn/course_platform.git
+fi
+
+# Create and activate virtual environment
+echo "Setting up Python virtual environment..."
+python3 -m venv venv
+source venv/bin/activate
+
+# Install Python dependencies
+echo "Installing Python packages..."
+pip install --upgrade pip
+pip install Django mysqlclient pillow
+
+# Run setup scripts if they exist
+echo "Running setup scripts..."
+if [ -f "course_platform/update_settings.sh" ]; then
+    sudo bash course_platform/update_settings.sh
+fi
+
+if [ -f "course_platform/nginx_setup.sh" ]; then
+    sudo bash course_platform/nginx_setup.sh
+fi
+
+# Change to the Django project directory
+echo "Changing to Django project directory..."
+if [ -d "Test-cloud" ]; then
+    cd Test-cloud/
+elif [ -d "course_platform" ]; then
+    cd course_platform/
+else
+    echo "Warning: Could not find Django project directory"
+    echo "Available directories:"
+    ls -la
+    exit 1
+fi
+
+# Run Django migrations (if manage.py exists)
+if [ -f "manage.py" ]; then
+    echo "Running Django migrations..."
+    python manage.py migrate --noinput || echo "Migration failed or not needed"
+    
+    echo "Collecting static files..."
+    python manage.py collectstatic --noinput || echo "Static files collection failed or not needed"
+    
+    echo "Setup complete! Starting development server..."
+    echo "Access your application at: http://localhost:8000"
+    python manage.py runserver 0.0.0.0:8000
+else
+    echo "Error: manage.py not found in current directory"
+    echo "Current directory contents:"
+    ls -la
+fi
