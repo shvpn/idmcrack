@@ -13,7 +13,15 @@ sudo apt update -y
 
 # Install system dependencies
 echo "Installing system dependencies..."
-sudo apt install -y nginx pkg-config libmysqlclient-dev default-libmysqlclient-dev build-essential python3.12-venv python3-pip git
+sudo apt install -y \
+    nginx \
+    pkg-config \
+    libmysqlclient-dev \
+    default-libmysqlclient-dev \
+    build-essential \
+    python3.12-venv \
+    python3-pip \
+    git
 
 # Clone the course platform repository
 echo "Cloning course platform repository..."
