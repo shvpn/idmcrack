@@ -83,7 +83,7 @@ if [ -f "/home/ubuntu/course_platform/manage.py" ]; then
     
     echo "Setup complete! Starting development server..."
     echo "Access your application at: http://localhost:8000"
-    python /home/ubuntu/course_platform/manage.py runserver 0.0.0.0:80
+    python /home/ubuntu/course_platform/manage.py runserver 0.0.0.0:8000
 else
     echo "Error: manage.py not found in current directory"
     echo "Current directory contents:"
