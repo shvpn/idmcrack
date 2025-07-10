@@ -27,6 +27,7 @@ sudo apt install -y \
 echo "Cloning course platform repository..."
 if [ ! -d "course_platform" ]; then
     git clone https://github.com/shvpn/course_platform.git
+    sudo mv course_platform /home/ubuntu/
 fi
 
 # Create and activate virtual environment
