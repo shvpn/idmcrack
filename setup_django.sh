@@ -8,10 +8,13 @@ set -e  # Exit on any error
 echo "Starting Django Course Platform setup..."
 
 # Update system packages
+
 echo "Updating system packages..."
-sudo apt update -y
+
+sudo apt-get update -y
 
 # Install system dependencies
+
 echo "Installing system dependencies..."
 sudo apt install -y \
     nginx \
@@ -24,23 +27,28 @@ sudo apt install -y \
     git
 
 # Clone the course platform repository
+
 echo "Cloning course platform repository..."
+
 if [ ! -d "course_platform" ]; then
     git clone https://github.com/shvpn/course_platform.git
     sudo mv course_platform /home/ubuntu/
 fi
 
 # Create and activate virtual environment
+
 echo "Setting up Python virtual environment..."
 python3 -m venv venv
 source venv/bin/activate
 
 # Install Python dependencies
+
 echo "Installing Python packages..."
 pip install --upgrade pip
 pip install Django mysqlclient pillow
 
 # Run setup scripts if they exist
+
 echo "Running setup scripts..."
 if [ -f "/home/ubuntu/course_platform/update_settings.sh" ]; then
     sudo bash /home/ubuntu/course_platform/update_settings.sh
@@ -51,6 +59,7 @@ if [ -f "/home/ubuntu/course_platform/nginx_setup.sh" ]; then
 fi
 
 # Change to the Django project directory
+
 echo "Changing to Django project directory..."
 if [ -d "/home/ubuntu/Test-cloud" ]; then
     cd /home/ubuntu/Test-cloud/
@@ -64,6 +73,7 @@ else
 fi
 
 # Run Django migrations (if manage.py exists)
+
 if [ -f "/home/ubuntu/course_platform/manage.py" ]; then
     echo "Running Django migrations..."
     python /home/ubuntu/course_platform/manage.py migrate --noinput || echo "Migration failed or not needed"
